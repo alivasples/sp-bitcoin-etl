@@ -1,0 +1,7 @@
+.coverage
+.env
+
+/.venv/
+/.idea/
+/data/landing_backup/
+/data/raw/
