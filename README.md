@@ -83,6 +83,7 @@ This project implements an ETL (Extract, Transform, Load) system for bitcoin sto
 
 **You must previously have created a database so you can write the credentials and database in .env file.**
 
+
 All other requirements are specified in `requirements.txt` and `requirements-test.txt` for testing dependencies.
 They should be installed in step 2 of Setup and Usage.
 
